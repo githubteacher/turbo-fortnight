@@ -1,4 +1,4 @@
 #Toronto
 
-1. McDonald's on yonge
-1. Starbucks @queen and victoria
+1. Yutaka on Dundas - sushi (west of bay)
+1. Santouka on Dundas - ramen (east of yonge)
