@@ -3,4 +3,5 @@
 
 * mickey'd
 * timmy's
+* starbucks
 
