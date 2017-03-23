@@ -1,5 +1,5 @@
 # Toronto, ON
 
 -The Craft :beers:
--Lakeview
+-Lakeview (Dundas and Ossington. Its diner food. Good and cheap!)
 -Five guys
