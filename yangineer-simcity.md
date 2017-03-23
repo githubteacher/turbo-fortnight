@@ -4,7 +4,7 @@ Btw, the last Simcity sucked due to server issues, forced multiplayer mode, and 
 
 ## Restaurants
 - Whatever gets built in the commercial zones
-- Qualitiy depends on how much $$$ the zone is rated
+- Quality depends on how much $$$ the zone is rated
 
 ## Famous Landmarks
 - Coal power plant
