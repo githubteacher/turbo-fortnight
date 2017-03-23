@@ -15,9 +15,9 @@ Btw, the last Simcity sucked due to server issues, forced multiplayer mode, and 
 ## Specialities
 1. Reticulating splines
 1. Disasters:
-  - Fire
-  - Tornado
-  - Earthquake
-  - Aliens
-  - Nuclear meltdowns
-  - Sometimes **all** at the same time
+    - Fire
+    - Tornado
+    - Earthquake
+    - Aliens
+    - Nuclear meltdowns
+    - Sometimes **all** at the same time
